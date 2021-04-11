@@ -1,12 +1,14 @@
 # Credit_Risk_Analysis
 Module 17 Challenge
 
-Overview of the loan prediction risk analysis:
-Intent of this exercise was to use mutiple predictive modeling techniques to predict the 
+### Overview
+The intent of this exercise was to use multiple machine learning modeling techniques to classify credit applicants as high or low risk.  Given the unbalanced nature of loans - there significantly more safe loans than risky loans - different techniques need to be employed in order to improve the quality of modeling outcomes in order to overcome the heavily skewed training dataset.
 
 Results:
 
 - Naive Random Oversampling
+
+![Naive_Random_Oversampling.png](https://github.com/benclark62/Credit_Risk_Analysis/blob/main/Naive_random_oversampling.png)
 
 - SMOTE Oversampling
 
