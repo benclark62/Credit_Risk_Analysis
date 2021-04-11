@@ -65,7 +65,7 @@ We reviewed Precision and Recall scores for both Low- and High-risk predictions.
 - Recall Score (Low-risk): 0.725
 - Recall Score (High-risk): 0.9966
 
-![brfc.png](https://github.com/benclark62/Credit_Risk_Analysis/blob/main/BRFC.png)
+![brfc.png](https://github.com/benclark62/Credit_Risk_Analysis/blob/main/1BRFC.png)
 
 - **AdaBoost Classifier**
 - Balanced Accuracy Score: 0.9964
@@ -75,7 +75,7 @@ We reviewed Precision and Recall scores for both Low- and High-risk predictions.
 - Recall Score (Low-risk): 0.3711
 - Recall Score (High-risk): 0.9970
 
-![adaboost.png](https://github.com/benclark62/Credit_Risk_Analysis/blob/main/Adaboost.png)
+![adaboost.png](https://github.com/benclark62/Credit_Risk_Analysis/blob/main/1ADA.png)
 
 Summary:
 
