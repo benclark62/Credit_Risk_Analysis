@@ -11,7 +11,7 @@ For each model, we reviewed the following:
 - the Precision score to understand the percentage of positive predictions that are correct (TP / (TP + FP))
 - the Recall (or sensitivity) score to understand the percentage of actual positive results that are predicted correctly (TP / (TP + FN))
 
-We reviewed Precision and Recall scores for both Low- and High-risk predictions to understand each model's ability to effectively predict High-risk 
+We reviewed Precision and Recall scores for both Low- and High-risk predictions to understand each model's ability to effectively predict High-risk loans. 
 
 
 **Naive Random Oversampling**
@@ -52,8 +52,8 @@ We reviewed Precision and Recall scores for both Low- and High-risk predictions 
 - Calculated Accuracy Score: 0.5745
 - Precision Score (Low-risk): 0.5739
 - Precision Score (High-risk): 0.7012
-- Recall Score (Low-risk): 0.0083
-- Recall Score (High-risk): 0.9974
+- Recall Score (Low-risk): 0.9974
+- Recall Score (High-risk): 0.0083
 
 ![SMOTEENN.png](https://github.com/benclark62/Credit_Risk_Analysis/blob/main/1SMOTEENN.png)
 
